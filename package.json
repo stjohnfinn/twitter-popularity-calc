@@ -1,0 +1,24 @@
+{
+  "name": "twitter-popularity-calc",
+  "version": "1.0.0",
+  "description": "twitter api application that gathers data on newly public companies",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stjohnfinn/twitter-popularity-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stjohnfinn/twitter-popularity-calc/issues"
+  },
+  "homepage": "https://github.com/stjohnfinn/twitter-popularity-calc#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "needle": "^3.0.0"
+  }
+}
